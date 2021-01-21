@@ -20,6 +20,7 @@ Use the config UI to checkout all the configs, but here are the most important "
 * Switch gerenade: Z
 * Run: shift
 * Middle finger: H
+* Quick save/load: F5, F9
 
 ## I'm invincible!
 That's a mod that make health to regenerate to 100 is installed. I found brutal doom much more enjoyable this way, where I don't have to find and decide when to use a health pack. If this bothers you, think of it more like a COD style gameplay. Of course you should choose higher difficulty to give yourself more chanllenge, then you'll find that being able to survive hordes of enemies is really fun -- then your health will be back to 100 to prepare you for the next round.
