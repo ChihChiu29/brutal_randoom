@@ -5,7 +5,7 @@ Brutal DOOM with RANDOM MAPS -- infinitely replayability!
 Brutal Randoom (Random-doom) is a packed bundle consists of GZDoom 4.5 and a random map generator Oblige 7.70, with bat scripts that makes it easy to generate new games and to continue play with existing maps.
 
 ## Usage
-1. Download the zip file [here](https://www.dropbox.com/sh/zp0h4y61b50xle2/AADr-2DtmYVYhfYVYVjx6B2fa?dl=0) (dropbox), unzip it to any location of your choice.
+1. Download the zip file [here](https://www.dropbox.com/s/01njms6wpb9nqod/GZDoom_PB3.zip?dl=0) (dropbox), unzip it to any location of your choice.
 
 1. Use `GenerateNewGame.bat` to create a new game. It generates a new map `game.wad` (in the same directory) as a full game (30 levels). If there is already a `game.wad`, it will rename it to `game.old`. If `game.old` exists, it will delete it. This is because save files are only compatible with the corresponding maps, so if you accidentally clicked on generate new game, this gives you a way to restore the previous map and continue to play with previous saves.
 
